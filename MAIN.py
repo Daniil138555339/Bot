@@ -4,7 +4,7 @@ import time
 from random import choice
 import requests
 
-TOKEN = '7288423950:AAG2s5EqnsmV3EmzJbhsmaiTzuWfH8Skhlk'  # вставьте сюда ваш токен
+TOKEN = ''  # вставьте сюда ваш токен
 bot = telebot.TeleBot(TOKEN)
 
 # Обработчик команды /start
